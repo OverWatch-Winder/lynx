@@ -11,6 +11,6 @@
     "moduleResolution": "Node",
     "skipLibCheck": true
   },
-  "include": [],
+  "include": ["test"],
   "exclude": ["node_modules"]
 }
