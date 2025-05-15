@@ -7,6 +7,7 @@ export interface TextInfo {
   fontFamily?: string;
   maxWidth?: string;
   maxLine?: number;
+  name?: string;
 }
 
 export interface TextMetrics {
